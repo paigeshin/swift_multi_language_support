@@ -1,6 +1,7 @@
 # ios_multi_language_support
 
 https://www.notion.so/ios-multi-language-support-e267719ef7994412826bfbd4dab65863
+
 https://medium.com/swift-india/localize-your-apps-to-support-multiple-languages-ios-localization-ac7b612dbc58
 
 
