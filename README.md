@@ -1,6 +1,7 @@
 # ios_multi_language_support
 
 https://www.notion.so/ios-multi-language-support-e267719ef7994412826bfbd4dab65863
+https://medium.com/swift-india/localize-your-apps-to-support-multiple-languages-ios-localization-ac7b612dbc58
 
 
 I . 먼저 App - Info로 가서 추가할 언어를 선택한다
